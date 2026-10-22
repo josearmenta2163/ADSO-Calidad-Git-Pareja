@@ -6,4 +6,4 @@ Integrantes:
 - Desarrollador A: josearmenta2163
 - Desarrollador B (Líder SQA): LunethZ
 
-Estado del proyecto: inicial
+Estado del proyecto: modulo de registro terminado
