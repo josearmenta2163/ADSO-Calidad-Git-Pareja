@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Binarios y compilados
+*.exe
+*.dll
+*.bin
+*.class
+*.pyc
+__pycache__/
+dist/
+build/
+
+# Temporales e IDE
+*.tmp
+.vscode/
+.idea/
+.DS_Store
